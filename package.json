@@ -1,0 +1,20 @@
+{
+  "name": "ohmyfood-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pix_ggyr",
+  "license": "ISC",
+  "dependencies": {
+    "g": "^2.0.1",
+    "prettier": "^2.2.1",
+    "sass": "^1.32.6"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.2.0"
+  }
+}
