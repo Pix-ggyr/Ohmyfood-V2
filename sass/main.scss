@@ -1,0 +1,16 @@
+@import 'utils/variables';
+@import 'utils/mixins';
+@import 'utils/animations';
+@import 'pages/homepage';
+@import 'pages/restaurant';
+@import 'layouts/header';
+@import 'layouts/footer';
+@import 'layouts/location';
+@import 'layouts/footer.scss';
+@import 'layouts/reponsive';
+@import 'components/buttons';
+
+div {
+  background-color: salmon;
+  border: 1px solid black;
+}
