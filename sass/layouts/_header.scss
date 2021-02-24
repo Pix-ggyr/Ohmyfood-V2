@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  padding: 20px 0 20px 0;
+  .logo {
+    margin: auto;
+    height: 70px;
+  }
+  .arrow {
+    font-size: 70px;
+    color: black;
+  }
+}

@@ -9,8 +9,20 @@
 @import 'layouts/footer.scss';
 @import 'layouts/reponsive';
 @import 'components/buttons';
+@import 'components/reactions';
 
-div {
-  background-color: salmon;
-  border: 1px solid black;
+body {
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
 }
